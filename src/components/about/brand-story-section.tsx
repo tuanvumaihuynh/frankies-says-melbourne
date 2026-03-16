@@ -48,8 +48,8 @@ export function BrandStorySection() {
           className="relative h-80 lg:h-full min-h-72 rounded-2xl overflow-hidden"
         >
           <img
-            src="/images/gallery/scene1.webp"
-            alt="Inside Frankie Says Melbourne"
+            src="/images/hero/background.jpg"
+            alt="Frankie Says Melbourne storefront"
             loading="lazy"
             className="w-full h-full object-cover"
           />

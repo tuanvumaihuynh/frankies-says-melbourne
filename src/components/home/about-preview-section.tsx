@@ -75,8 +75,8 @@ export function AboutPreviewSection() {
           >
             <div className="aspect-[4/5] rounded-2xl overflow-hidden">
               <img
-                src="/images/gallery/scene3.webp"
-                alt="Frankie Says Melbourne interior"
+                src="/images/hero/background.jpg"
+                alt="Frankie Says Melbourne storefront"
                 loading="lazy"
                 className="w-full h-full object-cover"
               />
