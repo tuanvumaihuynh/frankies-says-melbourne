@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah M.",
+    "quote": "Frankie Says has completely ruined other cafes for me. The eggs benny on sourdough is absolutely divine, and the coffee is consistently the best I've had in Abbotsford.",
+    "rating": 5,
+    "source": "Google"
+  },
+  {
+    "id": "2",
+    "name": "James T.",
+    "quote": "We came for brunch and ended up booking dinner the same day. The seasonal menu changes keep things exciting — every visit feels like a new experience.",
+    "rating": 5,
+    "source": "Google"
+  },
+  {
+    "id": "3",
+    "name": "Priya K.",
+    "quote": "The Thursday night dinners are a ritual for our friend group. Incredible atmosphere, attentive staff, and cocktails that pair perfectly with the food.",
+    "rating": 5,
+    "source": "TripAdvisor"
+  },
+  {
+    "id": "4",
+    "name": "Michael B.",
+    "quote": "A hidden gem in Abbotsford. The chefs really know how to balance flavours. The shakshuka is a weekend must-order for me.",
+    "rating": 5,
+    "source": "Google"
+  },
+  {
+    "id": "5",
+    "name": "Emma R.",
+    "quote": "Booked a table for my partner's birthday and the team made it so special. The food presentation was stunning and the service was warm and personal.",
+    "rating": 5,
+    "source": "TripAdvisor"
+  }
+]

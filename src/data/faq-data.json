@@ -1,0 +1,42 @@
+[
+  {
+    "id": "reservations",
+    "question": "Do you take reservations?",
+    "answer": "Yes, we accept reservations for all dining sessions. You can book online through our website or call us directly on 0431 701 700. We recommend booking in advance for weekend evenings, as we fill up quickly."
+  },
+  {
+    "id": "parking",
+    "question": "Is there parking nearby?",
+    "answer": "Yes, there is free street parking available on Acacia Place and surrounding streets. Paid parking is available on Victoria Street nearby."
+  },
+  {
+    "id": "dietary",
+    "question": "Do you cater for dietary requirements?",
+    "answer": "Absolutely. Our menu features a wide range of options for vegetarian (V), vegan (VG), gluten-free (GF), and dairy-free (DF) diets. Please let us know your requirements when booking or speak with our team on arrival — we're happy to accommodate."
+  },
+  {
+    "id": "events",
+    "question": "Can I host a private event?",
+    "answer": "Yes, we offer private event packages for birthdays, corporate functions, and celebrations. Please contact us via phone, email, or the form on this page and we'll work with you to tailor a package that suits your needs."
+  },
+  {
+    "id": "kids",
+    "question": "Do you have a kids menu?",
+    "answer": "We offer smaller portions of selected menu items for younger diners. Our team is always happy to accommodate families — just let us know when you arrive and we'll suggest the best options for little ones."
+  },
+  {
+    "id": "outdoor",
+    "question": "Is there outdoor seating?",
+    "answer": "Yes, our courtyard seats up to 20 guests and is perfect for sunny Melbourne days. The outdoor area is weather-permitting and operates during all opening hours. We also have a lovely indoor dining room with natural light."
+  },
+  {
+    "id": "takeaway",
+    "question": "Do you offer takeaway?",
+    "answer": "Yes, all menu items are available for takeaway. Simply order at the counter and we'll have your food and coffee ready as quickly as possible. We also offer house-made pastries and baked goods to grab on the go."
+  },
+  {
+    "id": "cancellation",
+    "question": "What's your cancellation policy?",
+    "answer": "We appreciate 24-hour notice for cancellations or changes to your reservation. This allows us to offer the table to other guests. For large groups of 8 or more, we kindly request 48-hour notice. You can cancel via phone or email."
+  }
+]

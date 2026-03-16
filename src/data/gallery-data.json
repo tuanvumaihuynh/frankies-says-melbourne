@@ -1,0 +1,200 @@
+[
+  {
+    "id": "g1",
+    "src": "/images/food/smashavo.jpg",
+    "alt": "Smashed Avocado on sourdough with poached eggs",
+    "caption": "Signature smashed avo — a Frankie Says classic",
+    "category": "food",
+    "aspectRatio": "4/3",
+    "color": "bg-amber-200"
+  },
+  {
+    "id": "g2",
+    "src": "/images/food/creamymatcha.jpg",
+    "alt": "Creamy matcha latte in a ceramic cup",
+    "caption": "Our house creamy matcha",
+    "category": "food",
+    "aspectRatio": "1/1",
+    "color": "bg-amber-300"
+  },
+  {
+    "id": "g3",
+    "src": "/images/gallery/scene1.webp",
+    "alt": "Frankie Says cafe interior with warm lighting",
+    "caption": "Our sun-drenched dining room",
+    "category": "ambiance",
+    "aspectRatio": "3/4",
+    "color": "bg-stone-300"
+  },
+  {
+    "id": "g4",
+    "src": "/images/food/pancake.jpg",
+    "alt": "Ricotta pancakes with berry compote",
+    "caption": "Ricotta pancakes — weekend ritual",
+    "category": "food",
+    "aspectRatio": "4/3",
+    "color": "bg-orange-200"
+  },
+  {
+    "id": "g5",
+    "src": "/images/gallery/scene2.webp",
+    "alt": "Wine bar evening ambiance",
+    "caption": "Evening vibes at Frankie Says",
+    "category": "events",
+    "aspectRatio": "16/9",
+    "color": "bg-rose-300"
+  },
+  {
+    "id": "g6",
+    "src": "/images/gallery/scene3.webp",
+    "alt": "Outdoor seating area with string lights",
+    "caption": "The courtyard — open Thursday through Sunday evenings",
+    "category": "ambiance",
+    "aspectRatio": "4/3",
+    "color": "bg-zinc-300"
+  },
+  {
+    "id": "g7",
+    "src": "/images/food/trufflemayo.jpg",
+    "alt": "Truffle mayo burger with house-cut fries",
+    "caption": "Truffle mayo burger — a fan favourite",
+    "category": "food",
+    "aspectRatio": "1/1",
+    "color": "bg-yellow-200"
+  },
+  {
+    "id": "g8",
+    "src": "/images/gallery/scene4.webp",
+    "alt": "Guests enjoying brunch at communal timber table",
+    "caption": "Communal table, Sunday brunch energy",
+    "category": "ambiance",
+    "aspectRatio": "16/9",
+    "color": "bg-slate-300"
+  },
+  {
+    "id": "g9",
+    "src": "/images/food/eggbenedict.jpg",
+    "alt": "Eggs benedict with hollandaise on brioche",
+    "caption": "Eggs benny — the brunch benchmark",
+    "category": "food",
+    "aspectRatio": "1/1",
+    "color": "bg-amber-400"
+  },
+  {
+    "id": "g10",
+    "src": "/images/gallery/scene5.webp",
+    "alt": "Cafe atmosphere with warm ambiance",
+    "caption": "The atmosphere that keeps you coming back",
+    "category": "events",
+    "aspectRatio": "4/3",
+    "color": "bg-violet-300"
+  },
+  {
+    "id": "g11",
+    "src": "/images/food/stickypork.jpg",
+    "alt": "Sticky pork with Asian slaw",
+    "caption": "Sticky pork — sweet, savoury, perfect",
+    "category": "food",
+    "aspectRatio": "3/4",
+    "color": "bg-stone-400"
+  },
+  {
+    "id": "g12",
+    "src": "/images/food/bigbreakie.jpg",
+    "alt": "Big brekkie plate with eggs, bacon and sourdough",
+    "caption": "The Big Brekkie — come hungry",
+    "category": "food",
+    "aspectRatio": "4/3",
+    "color": "bg-orange-300"
+  },
+  {
+    "id": "g13",
+    "src": "/images/food/crabcurry.jpg",
+    "alt": "Crab curry with fragrant rice",
+    "caption": "Crab curry — evening menu star",
+    "category": "food",
+    "aspectRatio": "3/4",
+    "color": "bg-amber-500"
+  },
+  {
+    "id": "g14",
+    "src": "/images/food/frannkiecombo.jpg",
+    "alt": "Frankie combo platter",
+    "caption": "The Frankie Combo — why choose just one?",
+    "category": "food",
+    "aspectRatio": "16/9",
+    "color": "bg-rose-400"
+  },
+  {
+    "id": "g15",
+    "src": "/images/food/chiliscramble.jpg",
+    "alt": "Chili scramble with herbs and sourdough",
+    "caption": "Chili scramble — for those who like it spicy",
+    "category": "food",
+    "aspectRatio": "4/3",
+    "color": "bg-zinc-200"
+  },
+  {
+    "id": "g16",
+    "src": "/images/food/waffle.jpg",
+    "alt": "Belgian waffle with maple and berries",
+    "caption": "Belgian waffles — made fresh to order",
+    "category": "food",
+    "aspectRatio": "1/1",
+    "color": "bg-yellow-300"
+  },
+  {
+    "id": "g17",
+    "src": "/images/food/truffleudon.jpg",
+    "alt": "Truffle udon noodles",
+    "caption": "Truffle udon — a winter warmer",
+    "category": "food",
+    "aspectRatio": "3/4",
+    "color": "bg-slate-400"
+  },
+  {
+    "id": "g18",
+    "src": "/images/food/prawnsprolls.jpg",
+    "alt": "Prawn spring rolls with dipping sauce",
+    "caption": "House-made prawn spring rolls",
+    "category": "food",
+    "aspectRatio": "4/3",
+    "color": "bg-violet-400"
+  },
+  {
+    "id": "g19",
+    "src": "/images/food/stickysalad.jpg",
+    "alt": "Sticky salad with fresh herbs",
+    "caption": "Sticky salad — light but satisfying",
+    "category": "food",
+    "aspectRatio": "4/3",
+    "color": "bg-amber-200"
+  },
+  {
+    "id": "g20",
+    "src": "/images/food/vietpastapan.jpg",
+    "alt": "Vietnamese pasta pan",
+    "caption": "Vietnamese pasta pan — East meets West",
+    "category": "food",
+    "aspectRatio": "16/9",
+    "color": "bg-stone-200"
+  },
+  {
+    "id": "g21",
+    "src": "/images/food/vegesproll.jpg",
+    "alt": "Vege spring rolls with herbs",
+    "caption": "Vege spring rolls — crispy and fresh",
+    "category": "food",
+    "aspectRatio": "4/3",
+    "color": "bg-orange-200"
+  },
+  {
+    "id": "g22",
+    "src": "/images/food/banhmitaco.jpg",
+    "alt": "Banh mi taco fusion",
+    "caption": "Banh mi taco — our signature fusion",
+    "category": "food",
+    "aspectRatio": "3/4",
+    "color": "bg-yellow-400"
+  }
+]

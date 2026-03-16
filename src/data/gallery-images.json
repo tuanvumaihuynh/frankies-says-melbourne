@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "src": "/images/food/smashavo.jpg",
+    "alt": "Smashed Avocado on sourdough",
+    "category": "food",
+    "aspectRatio": "4/3"
+  },
+  {
+    "id": "2",
+    "src": "/images/gallery/scene1.webp",
+    "alt": "Cafe interior with warm lighting",
+    "category": "interior",
+    "aspectRatio": "3/4"
+  },
+  {
+    "id": "3",
+    "src": "/images/food/truffleudon.jpg",
+    "alt": "Truffle udon noodles",
+    "category": "food",
+    "aspectRatio": "1/1"
+  },
+  {
+    "id": "4",
+    "src": "/images/food/creamymatcha.jpg",
+    "alt": "Creamy matcha latte",
+    "category": "drinks",
+    "aspectRatio": "4/3"
+  },
+  {
+    "id": "5",
+    "src": "/images/gallery/scene4.webp",
+    "alt": "Weekend brunch scene",
+    "category": "lifestyle",
+    "aspectRatio": "3/4"
+  },
+  {
+    "id": "6",
+    "src": "/images/food/eggbenedict.jpg",
+    "alt": "Eggs benedict with hollandaise",
+    "category": "food",
+    "aspectRatio": "4/3"
+  }
+]

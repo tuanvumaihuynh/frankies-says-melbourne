@@ -1,0 +1,12 @@
+{
+  "maxCapacityPerSlot": 8,
+  "dayService": { "start": "07:00", "end": "15:30" },
+  "nightService": { "start": "17:00", "end": "22:00" },
+  "slotIntervalMinutes": 30,
+  "blackoutDates": ["2026-12-25", "2026-12-26"],
+  "peakHours": {
+    "weekdayLunch": { "start": "12:00", "end": "14:00", "fillRate": 0.6 },
+    "weekendBrunch": { "start": "09:00", "end": "12:00", "fillRate": 0.8 },
+    "fridaySatNight": { "start": "19:00", "end": "21:00", "fillRate": 0.7 }
+  }
+}

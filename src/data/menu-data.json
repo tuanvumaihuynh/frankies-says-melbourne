@@ -1,0 +1,421 @@
+{
+  "day": [
+    {
+      "id": "eggs-toast",
+      "name": "Eggs & Toast",
+      "description": "Our signature egg dishes served on house-baked sourdough",
+      "items": [
+        {
+          "id": "smashed-avo",
+          "name": "Smashed Avo on Sourdough",
+          "description": "Whipped ricotta, heirloom tomatoes, dukkah, micro herbs, chilli flakes on house sourdough",
+          "price": 22,
+          "category": "eggs-toast",
+          "dietary": ["V"],
+          "image": "/images/food/smashavo.jpg",
+          "featured": true
+        },
+        {
+          "id": "truffle-mushroom-eggs",
+          "name": "Truffle Mushroom Eggs",
+          "description": "Scrambled free-range eggs, sautéed mixed mushrooms, truffle oil, fresh thyme, sourdough toast",
+          "price": 26,
+          "category": "eggs-toast",
+          "dietary": ["V", "GF"],
+          "image": "/images/food/trufflemayo.jpg",
+          "featured": true
+        },
+        {
+          "id": "eggs-benedict",
+          "name": "Eggs Benedict",
+          "description": "Poached free-range eggs, shaved leg ham, hollandaise sauce, toasted English muffin, chives",
+          "price": 24,
+          "category": "eggs-toast",
+          "dietary": [],
+          "image": "/images/food/eggbenedict.jpg"
+        },
+        {
+          "id": "shakshuka",
+          "name": "Shakshuka",
+          "description": "Baked eggs in spiced tomato and capsicum sauce, feta, fresh coriander, grilled sourdough",
+          "price": 23,
+          "category": "eggs-toast",
+          "dietary": ["V", "GF"],
+          "image": "/images/food/chiliscramble.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bowls-salads",
+      "name": "Bowls & Salads",
+      "description": "Nourishing bowls and seasonal salads",
+      "items": [
+        {
+          "id": "acai-bowl",
+          "name": "Açaí Bowl",
+          "description": "Organic açaí blend, house-made granola, sliced banana, seasonal berries, coconut flakes, honey drizzle",
+          "price": 19,
+          "category": "bowls-salads",
+          "dietary": ["VG", "GF", "DF"],
+          "image": "/images/food/evergreen.jpg",
+          "featured": true
+        },
+        {
+          "id": "quinoa-salad",
+          "name": "Roasted Pumpkin & Quinoa",
+          "description": "Tri-colour quinoa, honey-roasted pumpkin, baby spinach, pepitas, pomegranate, tahini dressing",
+          "price": 21,
+          "category": "bowls-salads",
+          "dietary": ["VG", "GF", "DF", "NF"]
+        },
+        {
+          "id": "smoked-salmon-bowl",
+          "name": "Smoked Salmon Grain Bowl",
+          "description": "Farro, house-cured smoked salmon, cucumber ribbons, avocado, capers, lemon crème fraîche",
+          "price": 25,
+          "category": "bowls-salads",
+          "dietary": ["GF", "DF"]
+        }
+      ]
+    },
+    {
+      "id": "sandwiches",
+      "name": "Sandwiches",
+      "description": "Loaded sandwiches on freshly baked bread",
+      "items": [
+        {
+          "id": "croque-monsieur",
+          "name": "Croque Monsieur",
+          "description": "Gruyère, leg ham, béchamel, Dijon mustard, toasted house sourdough, side salad",
+          "price": 20,
+          "category": "sandwiches",
+          "dietary": [],
+          "image": "/images/food/banhmitaco.jpg"
+        },
+        {
+          "id": "roasted-veg-ciabatta",
+          "name": "Roasted Vegetable Ciabatta",
+          "description": "Char-grilled zucchini, capsicum, eggplant, bocconcini, basil pesto, sun-dried tomatoes",
+          "price": 18,
+          "category": "sandwiches",
+          "dietary": ["V"]
+        },
+        {
+          "id": "chicken-club",
+          "name": "Frankie's Chicken Club",
+          "description": "Crispy free-range chicken, streaky bacon, avocado, iceberg lettuce, house aioli, toasted brioche",
+          "price": 22,
+          "category": "sandwiches",
+          "dietary": [],
+          "image": "/images/food/chickenburger.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sweet",
+      "name": "Sweet",
+      "description": "House-baked pastries and desserts",
+      "items": [
+        {
+          "id": "ricotta-hotcakes",
+          "name": "Ricotta Hotcakes",
+          "description": "Fluffy ricotta hotcakes, seasonal berry compote, mascarpone, toasted almond flakes, maple syrup",
+          "price": 21,
+          "category": "sweet",
+          "dietary": ["V"],
+          "image": "/images/food/pancake.jpg"
+        },
+        {
+          "id": "banana-bread",
+          "name": "House Banana Bread",
+          "description": "Warm toasted banana bread, whipped honey butter, fresh banana, sprinkle of cinnamon",
+          "price": 13,
+          "category": "sweet",
+          "dietary": ["V"],
+          "image": "/images/food/waffle.jpg"
+        }
+      ]
+    },
+    {
+      "id": "hot-drinks",
+      "name": "Hot Drinks",
+      "description": "Single-origin espresso by Five Senses Coffee",
+      "items": [
+        {
+          "id": "flat-white",
+          "name": "Flat White",
+          "description": "Double ristretto, velvety steamed milk — Melbourne's quintessential coffee",
+          "price": 5.5,
+          "category": "hot-drinks",
+          "dietary": ["GF"]
+        },
+        {
+          "id": "long-black",
+          "name": "Long Black",
+          "description": "Double espresso over hot water, full-bodied with a rich crema",
+          "price": 5,
+          "category": "hot-drinks",
+          "dietary": ["VG", "GF", "DF", "NF"]
+        },
+        {
+          "id": "matcha-latte",
+          "name": "Ceremonial Matcha Latte",
+          "description": "Premium Japanese ceremonial matcha, steamed oat milk, light honey — available iced",
+          "price": 7,
+          "category": "hot-drinks",
+          "dietary": ["V", "GF"],
+          "image": "/images/food/matcha.jpg"
+        },
+        {
+          "id": "chai-latte",
+          "name": "House Masala Chai",
+          "description": "Hand-blended spiced chai concentrate, steamed full-cream or oat milk, dusting of cinnamon",
+          "price": 6.5,
+          "category": "hot-drinks",
+          "dietary": ["V", "GF", "NF"]
+        }
+      ]
+    },
+    {
+      "id": "cold-drinks",
+      "name": "Cold Drinks",
+      "description": "Refreshing cold beverages",
+      "items": [
+        {
+          "id": "cold-brew",
+          "name": "Cold Brew Coffee",
+          "description": "12-hour steeped single-origin cold brew, served over ice — smooth, never bitter",
+          "price": 7,
+          "category": "cold-drinks",
+          "dietary": ["VG", "GF", "DF", "NF"]
+        },
+        {
+          "id": "fresh-juice",
+          "name": "Pressed Juice of the Day",
+          "description": "Ask your server for today's seasonal pressed juice blend — changes daily",
+          "price": 8.5,
+          "category": "cold-drinks",
+          "dietary": ["VG", "GF", "DF", "NF"]
+        },
+        {
+          "id": "sparkling-water",
+          "name": "Sparkling Water",
+          "description": "Antipodes sparkling mineral water, 500ml",
+          "price": 5,
+          "category": "cold-drinks",
+          "dietary": ["VG", "GF", "DF", "NF"]
+        }
+      ]
+    }
+  ],
+  "night": [
+    {
+      "id": "small-plates",
+      "name": "Small Plates",
+      "description": "Share and graze — designed for the table",
+      "items": [
+        {
+          "id": "burrata",
+          "name": "Burrata & Heirloom Tomatoes",
+          "description": "Imported burrata, heritage tomatoes, basil oil, aged balsamic, sea salt, grilled focaccia",
+          "price": 22,
+          "category": "small-plates",
+          "dietary": ["V", "GF"],
+          "image": "/images/food/stickysalad.jpg",
+          "featured": true
+        },
+        {
+          "id": "wagyu-croquettes",
+          "name": "Wagyu Beef Croquettes",
+          "description": "Crispy wagyu and mozzarella croquettes, smoked paprika aioli, pickled jalapeño",
+          "price": 18,
+          "category": "small-plates",
+          "dietary": [],
+          "image": "/images/food/prawnsprolls.jpg"
+        },
+        {
+          "id": "wild-mushroom-bruschetta",
+          "name": "Wild Mushroom Bruschetta",
+          "description": "Sautéed wild mushrooms, whipped goat's cheese, fresh thyme, toasted house sourdough",
+          "price": 17,
+          "category": "small-plates",
+          "dietary": ["V"]
+        },
+        {
+          "id": "kingfish-crudo",
+          "name": "Hiramasa Kingfish Crudo",
+          "description": "Thinly sliced kingfish, yuzu dressing, cucumber, pickled ginger, sesame, micro coriander",
+          "price": 24,
+          "category": "small-plates",
+          "dietary": ["GF", "DF", "NF"],
+          "image": "/images/food/crabcurry.jpg"
+        }
+      ]
+    },
+    {
+      "id": "mains",
+      "name": "Mains",
+      "description": "Thoughtfully crafted evening dishes",
+      "items": [
+        {
+          "id": "pan-roasted-barramundi",
+          "name": "Pan-Roasted Barramundi",
+          "description": "Crispy-skin barramundi, cauliflower purée, broccolini, caper butter, lemon, fresh dill",
+          "price": 36,
+          "category": "mains",
+          "dietary": ["GF"],
+          "image": "/images/food/saigonpan.jpg",
+          "featured": true
+        },
+        {
+          "id": "braised-lamb-shoulder",
+          "name": "Slow-Braised Lamb Shoulder",
+          "description": "8-hour braised lamb, pomegranate molasses glaze, roasted carrots, herbed polenta, mint gremolata",
+          "price": 38,
+          "category": "mains",
+          "dietary": ["GF"],
+          "image": "/images/food/stickypork.jpg"
+        },
+        {
+          "id": "roasted-cauliflower",
+          "name": "Whole Roasted Cauliflower",
+          "description": "Roasted cauliflower steak, chermoula, chickpea and spinach ragout, toasted almonds, harissa oil",
+          "price": 29,
+          "category": "mains",
+          "dietary": ["VG", "GF", "DF"]
+        }
+      ]
+    },
+    {
+      "id": "dessert",
+      "name": "Dessert",
+      "description": "Sweet endings",
+      "items": [
+        {
+          "id": "dark-chocolate-fondant",
+          "name": "Dark Chocolate Fondant",
+          "description": "Valrhona dark chocolate fondant, Tahitian vanilla bean ice cream, salted caramel, praline",
+          "price": 16,
+          "category": "dessert",
+          "dietary": ["V", "NF"]
+        },
+        {
+          "id": "lemon-tart",
+          "name": "Lemon Curd Tart",
+          "description": "Classic French lemon curd tart, torched Italian meringue, candied lemon zest, raspberry coulis",
+          "price": 14,
+          "category": "dessert",
+          "dietary": ["V"]
+        }
+      ]
+    },
+    {
+      "id": "wine",
+      "name": "Wine",
+      "description": "Curated selection of Victorian and national drops",
+      "items": [
+        {
+          "id": "chardonnay",
+          "name": "Chardonnay — Yering Station, Yarra Valley",
+          "description": "Crisp and elegant with stone fruit notes, subtle oak, long mineral finish — glass / bottle",
+          "price": 14,
+          "category": "wine",
+          "dietary": ["VG", "GF", "DF", "NF"]
+        },
+        {
+          "id": "pinot-noir",
+          "name": "Pinot Noir — Bass Phillip, Gippsland",
+          "description": "Silky and complex with dark cherry, spice, earthy undertones — glass / bottle",
+          "price": 16,
+          "category": "wine",
+          "dietary": ["VG", "GF", "DF", "NF"]
+        },
+        {
+          "id": "natural-orange",
+          "name": "Orange Wine — Commune of Buttons, SA",
+          "description": "Skin-contact Chenin Blanc, amber hue, textural with dried apricot and tangy finish",
+          "price": 15,
+          "category": "wine",
+          "dietary": ["VG", "GF", "DF", "NF"]
+        },
+        {
+          "id": "prosecco",
+          "name": "Prosecco — La Marca, Veneto",
+          "description": "Light and effervescent, green apple, white peach, delicate floral aromas — glass",
+          "price": 13,
+          "category": "wine",
+          "dietary": ["VG", "GF", "DF", "NF"]
+        }
+      ]
+    },
+    {
+      "id": "cocktails",
+      "name": "Cocktails",
+      "description": "House originals and classics",
+      "items": [
+        {
+          "id": "frankies-spritz",
+          "name": "Frankie's Spritz",
+          "description": "Aperol, house citrus cordial, prosecco, soda, orange slice, fresh rosemary sprig",
+          "price": 18,
+          "category": "cocktails",
+          "dietary": ["VG", "GF", "DF", "NF"],
+          "image": "/images/food/creamymatcha.jpg",
+          "featured": true
+        },
+        {
+          "id": "smoked-old-fashioned",
+          "name": "Smoked Old Fashioned",
+          "description": "Buffalo Trace bourbon, Angostura bitters, demerara syrup, tableside cherry wood smoke",
+          "price": 22,
+          "category": "cocktails",
+          "dietary": ["VG", "GF", "DF", "NF"]
+        },
+        {
+          "id": "yuzu-margarita",
+          "name": "Yuzu Margarita",
+          "description": "El Jimador blanco tequila, Cointreau, fresh yuzu juice, lime, salted rim, dehydrated lime",
+          "price": 20,
+          "category": "cocktails",
+          "dietary": ["VG", "GF", "DF", "NF"]
+        }
+      ]
+    }
+  ],
+  "special": [
+    {
+      "id": "winter-series",
+      "name": "Winter Series",
+      "description": "A limited seasonal menu celebrating the best of winter produce",
+      "items": [
+        {
+          "id": "truffle-pasta",
+          "name": "Black Truffle Tagliatelle",
+          "description": "House-made egg tagliatelle, black truffle shavings, aged Parmigiano, brown butter, crispy sage",
+          "price": 34,
+          "category": "winter-series",
+          "dietary": ["V"],
+          "image": "/images/food/truffleudon.jpg",
+          "featured": true
+        },
+        {
+          "id": "duck-confit",
+          "name": "Duck Confit & Lentilles du Puy",
+          "description": "Slow-confit duck leg, French green lentils, pancetta, roasted root vegetables, red wine jus",
+          "price": 38,
+          "category": "winter-series",
+          "dietary": ["GF", "DF"],
+          "image": "/images/food/pullporkfries.jpg"
+        },
+        {
+          "id": "warming-soup",
+          "name": "Roasted Tomato & Fennel Soup",
+          "description": "Slow-roasted Roma tomato, caramelised fennel, house-made sourdough croutons, basil oil",
+          "price": 16,
+          "category": "winter-series",
+          "dietary": ["VG", "DF", "NF"]
+        }
+      ]
+    }
+  ]
+}
