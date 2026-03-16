@@ -31,6 +31,7 @@ export function EventCard({ event, compact = false }: EventCardProps) {
           {/* Image with date badge */}
           <div className={cn('relative shrink-0', compact ? 'w-32' : 'w-full')}>
             <LazyImage
+              src={event.image}
               alt={event.title}
               color={event.color}
               aspectRatio={compact ? '1/1' : '16/9'}

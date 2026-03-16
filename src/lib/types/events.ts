@@ -10,5 +10,6 @@ export interface CafeEvent {
   rsvpEnabled: boolean
   isPast: boolean
   tags: string[]
-  color: string       // placeholder bg color
+  color: string       // fallback bg color
+  image?: string      // event image path
 }

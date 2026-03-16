@@ -11,7 +11,8 @@
     "rsvpEnabled": true,
     "isPast": false,
     "tags": ["wine", "tasting", "natural wine", "evening"],
-    "color": "bg-rose-300"
+    "color": "bg-rose-300",
+    "image": "/images/food/crabcurry.jpg"
   },
   {
     "id": "e2",
@@ -25,7 +26,8 @@
     "rsvpEnabled": true,
     "isPast": false,
     "tags": ["jazz", "brunch", "live music", "sunday"],
-    "color": "bg-amber-300"
+    "color": "bg-amber-300",
+    "image": "/images/food/bigbreakie.jpg"
   },
   {
     "id": "e3",
@@ -39,7 +41,8 @@
     "rsvpEnabled": true,
     "isPast": false,
     "tags": ["degustation", "chef's table", "fine dining", "intimate"],
-    "color": "bg-stone-400"
+    "color": "bg-stone-400",
+    "image": "/images/food/frannkiecombo.jpg"
   },
   {
     "id": "e4",
@@ -53,7 +56,8 @@
     "rsvpEnabled": false,
     "isPast": false,
     "tags": ["menu launch", "spring", "free", "community"],
-    "color": "bg-green-300"
+    "color": "bg-green-300",
+    "image": "/images/gallery/scene5.webp"
   },
   {
     "id": "e5",
@@ -67,7 +71,8 @@
     "rsvpEnabled": false,
     "isPast": true,
     "tags": ["valentine's", "romantic", "set menu", "special occasion"],
-    "color": "bg-rose-400"
+    "color": "bg-rose-400",
+    "image": "/images/gallery/scene3.webp"
   },
   {
     "id": "e6",
@@ -81,7 +86,8 @@
     "rsvpEnabled": false,
     "isPast": true,
     "tags": ["new year's eve", "DJ", "party", "cocktails"],
-    "color": "bg-violet-400"
+    "color": "bg-violet-400",
+    "image": "/images/gallery/scene1.webp"
   },
   {
     "id": "e7",
@@ -95,6 +101,7 @@
     "rsvpEnabled": false,
     "isPast": true,
     "tags": ["coffee", "barista", "workshop", "hands-on"],
-    "color": "bg-amber-500"
+    "color": "bg-amber-500",
+    "image": "/images/food/matcha.jpg"
   }
 ]

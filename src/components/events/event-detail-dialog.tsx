@@ -36,6 +36,7 @@ export function EventDetailDialog({
         {/* Hero image */}
         <div className="rounded-t-xl overflow-hidden">
           <LazyImage
+            src={event.image}
             alt={event.title}
             color={event.color}
             aspectRatio="16/9"
