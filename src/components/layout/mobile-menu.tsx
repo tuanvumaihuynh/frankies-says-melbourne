@@ -27,11 +27,9 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
 
   return (
     <Sheet open={open} onOpenChange={onOpenChange}>
-      <SheetTrigger asChild>
-        <Button variant="ghost" size="icon" className="lg:hidden">
-          <Menu className="h-5 w-5" />
-          <span className="sr-only">Open menu</span>
-        </Button>
+      <SheetTrigger render={<Button variant="ghost" size="icon" className="lg:hidden" />}>
+        <Menu className="h-5 w-5" />
+        <span className="sr-only">Open menu</span>
       </SheetTrigger>
       <SheetContent side="right" className="w-72">
         <SheetHeader>
@@ -52,8 +50,8 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
           <OpenStatus />
         </div>
         <div className="mt-6">
-          <Button asChild className="w-full bg-accent text-accent-foreground hover:bg-accent/90">
-            <Link to="/booking">Book a Table</Link>
+          <Button render={<Link to="/booking" />} className="w-full bg-accent text-accent-foreground hover:bg-accent/90">
+            Book a Table
           </Button>
         </div>
       </SheetContent>

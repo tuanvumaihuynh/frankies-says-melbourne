@@ -17,14 +17,8 @@ export function EventsEmptyState() {
           to know.
         </p>
       </div>
-      <Button asChild variant="outline">
-        <a
-          href={SITE_CONFIG.social.instagram}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Follow us on Instagram
-        </a>
+      <Button render={<a href={SITE_CONFIG.social.instagram} target="_blank" rel="noopener noreferrer" />} variant="outline">
+        Follow us on Instagram
       </Button>
     </div>
   )

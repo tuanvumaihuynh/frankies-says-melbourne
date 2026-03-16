@@ -68,11 +68,11 @@ export function AboutPage() {
             Secure your table and experience Frankie Says for yourself.
           </p>
           <Button
-            asChild
+            render={<Link to="/booking" />}
             size="lg"
             className="mt-8 bg-accent px-10 text-accent-foreground hover:bg-accent/90"
           >
-            <Link to="/booking">Book a Table</Link>
+            Book a Table
           </Button>
         </motion.div>
       </section>

@@ -27,11 +27,11 @@ export function BookingCtaSection() {
           your table is ready and waiting.
         </p>
         <Button
-          asChild
+          render={<Link to="/booking" />}
           size="lg"
           className="bg-accent text-accent-foreground hover:bg-accent/90 px-10"
         >
-          <Link to="/booking">Book a Table</Link>
+          Book a Table
         </Button>
       </motion.div>
     </section>

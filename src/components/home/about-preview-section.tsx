@@ -57,15 +57,9 @@ export function AboutPreviewSection() {
               <div className="flex-1 min-w-0">
                 <p className="font-medium text-sm mb-1">Find Us</p>
                 <p className="text-sm text-muted-foreground mb-3">{SITE_CONFIG.address.full}</p>
-                <Button asChild size="sm" variant="outline" className="gap-2">
-                  <a
-                    href={SITE_CONFIG.googleMapsUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
+                <Button render={<a href={SITE_CONFIG.googleMapsUrl} target="_blank" rel="noopener noreferrer" />} size="sm" variant="outline" className="gap-2">
                     Get Directions
                     <ExternalLink className="h-3.5 w-3.5" />
-                  </a>
                 </Button>
               </div>
             </div>

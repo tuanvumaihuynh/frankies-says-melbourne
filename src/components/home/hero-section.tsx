@@ -62,19 +62,19 @@ export function HeroSection() {
           transition={{ duration: 0.7, delay: 0.4 }}
         >
           <Button
-            asChild
+            render={<Link to="/menu" />}
             size="lg"
             className="bg-accent text-accent-foreground hover:bg-accent/90 px-8"
           >
-            <Link to="/menu">Explore Our Menu</Link>
+            Explore Our Menu
           </Button>
           <Button
-            asChild
+            render={<Link to="/booking" />}
             size="lg"
             variant="outline"
             className="border-white text-white bg-transparent hover:bg-white/10 px-8"
           >
-            <Link to="/booking">Book a Table</Link>
+            Book a Table
           </Button>
         </motion.div>
       </div>

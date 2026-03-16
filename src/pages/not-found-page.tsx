@@ -12,11 +12,9 @@ export function NotFoundPage() {
       <p className="mt-2 text-muted-foreground">
         Sorry, we couldn&apos;t find the page you&apos;re looking for.
       </p>
-      <Button asChild className="mt-6 bg-accent text-accent-foreground hover:bg-accent/90">
-        <Link to="/">
-          <Home className="mr-2 h-4 w-4" />
-          Back to Home
-        </Link>
+      <Button render={<Link to="/" />} className="mt-6 bg-accent text-accent-foreground hover:bg-accent/90">
+        <Home className="mr-2 h-4 w-4" />
+        Back to Home
       </Button>
     </div>
   )

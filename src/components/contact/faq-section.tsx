@@ -14,7 +14,7 @@ export function FAQSection() {
         title="Frequently Asked"
         subtitle="Common questions about visiting Frankie Says"
       />
-      <Accordion openMultiple={false}>
+      <Accordion multiple={false}>
         {faqData.map((item) => (
           <AccordionItem key={item.id} value={item.id}>
             <AccordionTrigger>{item.question}</AccordionTrigger>

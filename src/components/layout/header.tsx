@@ -43,10 +43,10 @@ export function Header() {
             <OpenStatus />
           </div>
           <Button
-            asChild
+            render={<Link to="/booking" />}
             className="hidden sm:inline-flex bg-accent text-accent-foreground hover:bg-accent/90"
           >
-            <Link to="/booking">Book a Table</Link>
+            Book a Table
           </Button>
           <MobileMenu open={mobileOpen} onOpenChange={handleOpenChange} />
         </div>

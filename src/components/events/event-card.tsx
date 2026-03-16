@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { format, parseISO } from 'date-fns'
-import { Clock, Tag } from 'lucide-react'
+import { Clock } from 'lucide-react'
 import { motion } from 'framer-motion'
 import { Card } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'

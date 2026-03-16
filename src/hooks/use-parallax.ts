@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, CSSProperties } from 'react'
+import { useState, useEffect, useRef, type CSSProperties } from 'react'
 
 interface UseParallaxOptions {
   speed?: number
